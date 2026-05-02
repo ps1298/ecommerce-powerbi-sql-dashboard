@@ -4,6 +4,12 @@
 
 Built an end-to-end Business Intelligence project using SQL + Power BI to analyze e-commerce revenue, customer behavior, payment trends, category performance, and regional insights.
 
+## Dataset
+
+Source: Brazilian E-Commerce Public Dataset (Kaggle).
+
+The raw dataset is publicly available from the original source and has not been uploaded to this repository to keep the project lightweight and organized.
+
 ## Tools Used
 
 * PostgreSQL / SQL
