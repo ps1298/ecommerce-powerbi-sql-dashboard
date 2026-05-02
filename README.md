@@ -52,7 +52,7 @@ Built an end-to-end Business Intelligence project using SQL + Power BI to analyz
 ![Overview](Overview.png)
 
 ### Sales Analysis Dashboard
-![Sales Analysis](Sales_Analysis_Dashboard.png)
+![Sales Analysis](SalesAnalysis.png)
 
 ### Customer Insights Dashboard
 ![Insights](Insights.png)
